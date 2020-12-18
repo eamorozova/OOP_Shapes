@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShapeListApp</string>
+    <string name="shape_name">Shape</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="radius">radius</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="edge">edge</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+</resources>
